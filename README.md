@@ -7,8 +7,8 @@
     A passionate Data Analyst.
 </h3>
 
-<!-- <img align="rignt" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
-<img align="left" alt="coder" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5ncmo2dzNld2wybWpjNGgybmlhYjk3dDNpcGIxYnpuZzd2MXYzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"/>
+<img aligh="left" alter="Laptop Gif" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ1bTQyaWQxZWI3MWt3b3ZjbHU1bjdoMzRoNzVzMXE4OGRtdTlybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MBCodZbEhb2jSNUZNd/giphy.gif"/>
+
 
 
 <p align="left">
